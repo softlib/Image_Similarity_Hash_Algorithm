@@ -1,0 +1,2 @@
+# Image_Similarity_Hash_Algorithm
+图像的相似度Hash算法(aHash的delphi实现)
