@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.935,=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.119,C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\uPHash.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.351,=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.713,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Lenovo\Desktop\Test1\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.104,C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\u32x32_SimilarityTools.pas=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.508,C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\uGlobalLSHIndex.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.492,=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.713,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Lenovo\Desktop\Test1\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.809,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.186,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.915,C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\uFingerHash64.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.548,=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.126,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Lenovo\Desktop\Test1\Project1.dproj</Transaction>
+    <Transaction>2026-09-22 16:08:36.579,=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>2026-09-22 16:08:49.047,C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\uHash64x64.pas=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>2026-09-22 16:28:48.170,=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+    <Transaction>2026-09-22 16:28:57.312,C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\uMultiScaleHash.pas=C:\Users\yls\Desktop\pdfview\图像的相似度Hash算法(aHash的delphi实现)\Test1\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
